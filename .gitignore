@@ -1,0 +1,14 @@
+# mac
+.DS_Store
+
+# node_modules
+node_modules/
+
+# Editor directories and files
+.idea
+.vscode
+
+
+# log
+npm-debug.log
+yarn-error.log

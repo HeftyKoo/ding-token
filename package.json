@@ -1,0 +1,30 @@
+{
+  "name": "ding-token",
+  "version": "0.0.1",
+  "description": "钉钉access_oken管理",
+  "main": "index.js",
+  "author": "Hefty",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yeyuqiudeng/ding-token.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yeyuqiudeng/ding-token/issues"
+  },
+  "homepage": "https://github.com/yeyuqiudeng/ding-token#readme",
+  "keywords": [
+    "钉钉",
+    "ding-token",
+    "token"
+  ]  
+}
