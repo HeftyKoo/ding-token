@@ -1,6 +1,6 @@
 {
   "name": "ding-token",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "钉钉access_oken管理",
   "main": "index.js",
   "author": "Hefty",
