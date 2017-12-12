@@ -52,6 +52,7 @@ const dingToken = new DingToken({
   * errorcode <Number> 错误码（0）
   * errmsg <String> 错误信息（"ok"）
   * access_token <String> access_token
+  * expire <Date> 过期日期
 
 ## 方法
 
